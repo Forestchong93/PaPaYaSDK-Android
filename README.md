@@ -30,4 +30,4 @@ implementation 'com.github.Forestchong93:PaPaYaSDK-android:0.0.1'
 ![alt text](https://github.com/Forestchong93/PaPaYaSDK-android/blob/master/Screenshot_1561967266.png)
 
 
-##And You good to Go!!
+## And You good to Go!!
