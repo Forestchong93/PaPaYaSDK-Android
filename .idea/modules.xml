@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PapayaAdsSdk/PapayaAdsSdk.iml" filepath="$PROJECT_DIR$/PapayaAdsSdk/PapayaAdsSdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and-PaPaYaSDK.iml" filepath="$PROJECT_DIR$/and-PaPaYaSDK.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/PaPaYaSDK-android-3.0.1/PapayaAdsSdk/src/main/assets"/><source path="/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/PaPaYaSDK-android-3.0.1/PapayaAdsSdk/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/PaPaYaSDK-android-3.0.1/PapayaAdsSdk/src/debug/assets"/></dataSet></merger>

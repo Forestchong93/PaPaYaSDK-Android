@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/and-PaPaYaSDK/PapayaAdsSdk/build/intermediates/res/merged/androidTest/debug/layout_banner.xml.flat",
+        "source": "/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/and-PaPaYaSDK/PapayaAdsSdk/build/intermediates/bundles/debug/res/layout/banner.xml"
+    },
+    {
+        "merged": "/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/and-PaPaYaSDK/PapayaAdsSdk/build/intermediates/res/merged/androidTest/debug/drawable_banner_1.png.flat",
+        "source": "/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/and-PaPaYaSDK/PapayaAdsSdk/build/intermediates/bundles/debug/res/drawable/banner_1.png"
+    },
+    {
+        "merged": "/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/and-PaPaYaSDK/PapayaAdsSdk/build/intermediates/res/merged/androidTest/debug/drawable_banner_3.jpeg.flat",
+        "source": "/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/and-PaPaYaSDK/PapayaAdsSdk/build/intermediates/bundles/debug/res/drawable/banner_3.jpeg"
+    },
+    {
+        "merged": "/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/and-PaPaYaSDK/PapayaAdsSdk/build/intermediates/res/merged/androidTest/debug/drawable_banner_2.jpg.flat",
+        "source": "/Users/forestchong/Desktop/Programmer/MC_APPS_PROJECT/ADX/and-PaPaYaSDK/PapayaAdsSdk/build/intermediates/bundles/debug/res/drawable/banner_2.jpg"
+    }
+]

@@ -1,0 +1,6 @@
+int drawable banner_1 0x7f090001
+int drawable banner_2 0x7f090002
+int drawable banner_3 0x7f090003
+int id btnBannerButton 0x7f0c0001
+int layout banner 0x7f0f0001
+int string app_name 0x7f150001
