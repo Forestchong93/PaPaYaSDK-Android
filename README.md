@@ -3,7 +3,7 @@
 ## Android PaPaYaSDK Setup Guide
 
 #### Step 1
-  Add  `maven { url 'https://jitpack.io' }` in `Project build.gradle` 
+  Add below in `Project build.gradle` 
 
 ```sh
 allprojects {
@@ -14,7 +14,7 @@ allprojects {
 ```
 
 #### Step 2
-  Add `implementation 'com.github.Forestchong93:PaPaYaSDK-android:0.0.1'` in `App build.gradle`
+  Add below in `App build.gradle`
 ```sh
 implementation 'com.github.Forestchong93:PaPaYaSDK-android:0.0.1'
 ```
