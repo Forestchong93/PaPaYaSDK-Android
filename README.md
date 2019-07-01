@@ -27,3 +27,4 @@ implementation 'com.github.Forestchong93:PaPaYaSDK-android:0.0.1'
       android:layout_height="wrap_content">
   </com.bubblespot.papayaadssdk.views.Banner>
 ```
+![alt text](http://url/to/img.png)
